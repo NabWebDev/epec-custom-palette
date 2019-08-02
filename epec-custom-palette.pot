@@ -1,0 +1,52 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: epec-custom-palette\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-02 08:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: epec-custom-palette.php:23
+msgid "Brand Color 1"
+msgstr ""
+
+#: epec-custom-palette.php:28
+msgid "Brand Color2"
+msgstr ""
+
+#: epec-custom-palette.php:33
+msgid "Very Dark Gray"
+msgstr ""
+
+#: epec-custom-palette.php:38
+msgid "White"
+msgstr ""
+
+#. Name of the plugin
+msgid "Custom Colors Palette by Promo EPEC"
+msgstr ""
+
+#. Description of the plugin
+msgid "Un plugin d'introduction pour le développement sous WordPress"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/NabWebDev/epec-custom-palette.git"
+msgstr ""
+
+#. Author of the plugin
+msgid "Nabil"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://votre-site.com"
+msgstr ""
